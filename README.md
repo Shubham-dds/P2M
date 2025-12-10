@@ -12,7 +12,7 @@
 </div>
 
 
-> #### :page_facing_up: [Paper](https://arxiv.org/abs/2511.16372) | :movie_camera: [Demo](https://arxiv.org/abs/2511.16372) | :rocket: Project Page (Coming Soon)
+> #### :page_facing_up: [Paper](https://arxiv.org/abs/2511.16372) | :movie_camera: [Demo](https://www.bilibili.com/video/BV1QXm4BmEVW/) | :rocket: Project Page (Coming Soon)
 > :black_nib: Bowen Xu, Zexuan Yan, M. Lu, X. Fan, Y. Luo, Y. Lin, Z. Chen, Y. Chen, Q. Qiao, P. Lu \
 > :e-mail: Primary Contact: Bowen Xu (link.bowenxu@connect.hku.hk) and Zexuan Yan (ryan2002@connect.hku.hk)
 
